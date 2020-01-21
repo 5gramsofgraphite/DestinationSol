@@ -1,0 +1,11 @@
+{
+    "id" : "Terminal",
+    "version" : "0.1.0",
+    "displayName" : "Terminal Faction",
+    "description" : "Content related to Terminal Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
